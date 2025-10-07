@@ -1,0 +1,12 @@
+[
+  {
+    "name": "İstanbul",
+    "region": "Marmara",
+    "hints": ["Boğaz köprüsüyle ünlü", "Türkiye'nin en kalabalık ili", "Tarihi yarımada burada"]
+  },
+  {
+    "name": "Konya",
+    "region": "İç Anadolu",
+    "hints": ["Yüzölçümü en büyük il", "Mevlana'nın şehri", "Etli ekmeğiyle meşhur"]
+  }
+]
